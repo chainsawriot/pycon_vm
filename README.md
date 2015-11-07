@@ -18,3 +18,6 @@ The output should be:
 Launch Virtual Box, file -> import appliance -> point to the 'PyCon.ova'
 
 Launch that Virtual Machine and boom, you are ready to hack.
+
+The default user name: pycon
+password: pycon
